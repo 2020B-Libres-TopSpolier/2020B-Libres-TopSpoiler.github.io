@@ -1,9 +1,11 @@
 # 2020B-Libres-TopSpoiler.github.io
 Aplicación Web
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Titulo 1
+## Titulo 2
+### Titulo 3
+#### Titulo 4
+##### Titulo 5
+###### Titulo 6
+
+Mi nombre es **Cristian Tuitice** me gusta ~~compuatcion~~
