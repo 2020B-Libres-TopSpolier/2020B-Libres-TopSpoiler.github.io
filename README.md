@@ -8,4 +8,4 @@ Aplicación Web
 ##### Titulo 5
 ###### Titulo 6
 
-Mi nombre es **Cristian Tuitice** me gusta ~~compuatcion~~
+Mi nombre es **Cristian Tuitice** me gusta ~~computacion~~
