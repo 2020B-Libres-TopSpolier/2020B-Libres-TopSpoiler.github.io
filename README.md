@@ -96,7 +96,7 @@ function comer(){
   ---------------------------------------------------------------------------------
   
   
-  <!-- Begin Mailchimp Signup Form -->
+ <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -128,7 +128,14 @@ function comer(){
 		<span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
 		<span class="small-meta nowrap">( mm / dd )</span>
 	</div>
-</div>	<div id="mce-responses" class="clear">
+</div><div class="mc-field-group input-group">
+    <strong>Colaboradores </strong>
+    <ul><li><input type="radio" value="1" name="group[78540]" id="mce-group[78540]-78540-0"><label for="mce-group[78540]-78540-0">Reyes Piratas</label></li>
+<li><input type="radio" value="2" name="group[78540]" id="mce-group[78540]-78540-1"><label for="mce-group[78540]-78540-1">Yonkous</label></li>
+<li><input type="radio" value="4" name="group[78540]" id="mce-group[78540]-78540-2"><label for="mce-group[78540]-78540-2">Comandantes</label></li>
+</ul>
+</div>
+	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
@@ -137,17 +144,5 @@ function comer(){
     </div>
 </form>
 </div>
-
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
