@@ -106,7 +106,7 @@ function comer(){
 <div id="mc_embed_signup">
 <form action="https://github.us7.list-manage.com/subscribe/post?u=67783e5636badf31c51f321eb&amp;id=0f8959dde1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
+	<h2>Subscribete a nuestra Comunidad de Spoliers</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -129,7 +129,7 @@ function comer(){
 		<span class="small-meta nowrap">( mm / dd )</span>
 	</div>
 </div><div class="mc-field-group input-group">
-    <strong>Colaboradores </strong>
+    <strong>Seleccione el tipo de colaborador</strong>
     <ul><li><input type="radio" value="1" name="group[78540]" id="mce-group[78540]-78540-0"><label for="mce-group[78540]-78540-0">Reyes Piratas</label></li>
 <li><input type="radio" value="2" name="group[78540]" id="mce-group[78540]-78540-1"><label for="mce-group[78540]-78540-1">Yonkous</label></li>
 <li><input type="radio" value="4" name="group[78540]" id="mce-group[78540]-78540-2"><label for="mce-group[78540]-78540-2">Comandantes</label></li>
