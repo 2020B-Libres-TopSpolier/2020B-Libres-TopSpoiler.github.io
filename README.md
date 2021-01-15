@@ -99,7 +99,7 @@ $ apt update
   <p>Hola amigos **Como estas** <strong>COMO ESTAS </strong> </p>
   
   
-  ---------------------------------------------------------------------------------
+  ---
   
   
  <!-- Begin Mailchimp Signup Form -->
