@@ -8,7 +8,7 @@ Aplicación Web
 ##### Titulo 5
 ###### Titulo 6
 
-Mi nombre es **Omar Tuitice** me gusta ~~computacion~~
+Mi nombre es **Omar Tuitice** me gusta ~~computación~~
 
 
 # Listas Ordenadas
@@ -16,18 +16,19 @@ Mi nombre es **Omar Tuitice** me gusta ~~computacion~~
 Las listas ordenadas son las siguientes:
 
 1.  Lunes
-1.  Martes
-1.  Miercoles
-
+2.  Martes
+3.  Miercoles
 
 Las listas no ordenadas son las siguientes:
--  manzanas
--  peras
--  banano
 
-# Links
+-  Manzanas
+-  Peras
+-  Banano
+
+## Links
 
 Quiero ir a [Google](https://www.google.com.ec/)
+
 Quiero ir a [Google](https://www.google.com.ec/ "Me gusta el encebollado") y se mostrara un mensaje encima del link
 
 Imagen
@@ -51,20 +52,25 @@ function comer(){
 }
 ```
 
-```xml
-<hola fonetica="3">Como estas
-  
-  
-  ## Tablas
-  
-  | Nombre   | Apellido |
-  |----      |-------  |
-  | Cristian | Tuitice  |
-  | Omar     | Garofalo |
+```
+$ apt get install xxxx
+$ echo HOLA
+$ apt update
+```
 
+```xml
+<hola fonetica="3">Como estas</hola>
+```
   
+
+## Tablas
   
-  ## Quotes
+  |  Nombre  |  Apellido  |
+  |  ---  |  ---  |
+  |  Cristian  |  Tuitice  |
+  |  Omar  |  Garofalo  |
+  
+ ## Quotes
   
   Cita uno
   
