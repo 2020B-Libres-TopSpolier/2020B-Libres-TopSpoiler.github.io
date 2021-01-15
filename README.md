@@ -35,7 +35,7 @@ Imagen
 
 ![Carro](https://cnet3.cbsistatic.com/img/HZ1GHqgdFgHqtw7Iokz53A4aQp8=/1092x614/2018/12/22/c6da0ecf-fe22-4c7e-b5aa-27f9ee3ef911/audi-a7-2019-lado.jpg "Este va ha ser mi carro")
 
-  ## Codigo
+## Codigo
 
 En `python` se puede crear variables vacias.
 
@@ -63,14 +63,14 @@ $ apt update
 ```
   
 
-  ## Tablas
+## Tablas
   
   |  Nombre  |  Apellido  |
   |  ---  |  ---  |
   |  Cristian  |  Tuitice  |
   |  Omar  |  Garofalo  |
   
-  ## Quotes
+## Quotes
   
   Cita uno
   
@@ -86,7 +86,7 @@ $ apt update
   > **Omar** `Tutiice`
   
   
-  ## Lineas separadoras y HTML
+## Lineas separadoras y HTML
   
   Contenido
   
