@@ -20,13 +20,13 @@ Tabla de Contenidos
 * [Etiquetas](#etiquetas)
 * [Licencia](#licencia)
 * [Lista de Correos](#lista-de-correos)
-* [Gestión](#gestion)
+* [Gestión](#gestión)
 * [Toma de Desiciones](#toma-de-desiciones)
-* [Obtención de Recursos](#obtencion-de-recursos)
-* [Utilización de Recursos](#utilizacion-de-recursos)
+* [Obtención de Recursos](#obtención-de-recursos)
+* [Utilización de Recursos](#utilización-de-recursos)
 * [Estrategia de Ramas](#estrategia-de-ramas)
 * [Estrategia de Versionamiento](#estrategia-de-versionamiento)
-* [Canales de Comunicación](#canales-de-comunicacion)
+* [Canales de Comunicación](#canales-de-comunicación)
 
 ---
 
