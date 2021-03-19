@@ -5,6 +5,8 @@ Aplicación Web
 TopSpoliers es una plataforma para la distribución de los diferentes spoilers de mayor popularidad en la comunidad del manga, mediante en uso de textos explicitos publicados por diferentes usuarios.
 
 
+[![GitHub maintaner](https://github.com/omarcotg1)](../../omarcotg/purple)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![](https://github.com/omarcotg1/maintaner-omarcotg1-purple)
 ![](https://github.com/2020B-Libres-TopSpolier/2020B-Libres-TopSpoiler.github.io/blob/main/LICENSE/lincese-GLP%20v2-green)
