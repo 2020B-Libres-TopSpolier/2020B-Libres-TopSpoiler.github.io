@@ -53,7 +53,8 @@ El objetivo principal de mi Aplicación Web es la distribución de Spoilers en f
 Fundador
 -------
 
-[Hecha un vistaso a la aplicación](https://www.figma.com/file/YBSq1VzG63potczpzNlXMS/Untitled?node-id=0%3A1)
+* [Omar Tuitice]( https://github.com/omarcotg1)
+
 
 Roles
 -------
