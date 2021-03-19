@@ -13,7 +13,7 @@ Tabla de Contenidos
 =======================
 
 
-* [Descripción](#descripcion)
+* [Descripción](#descripción)
 * [Objetivos](#objetivos)
 * [Fundadores](#fundadores)
 * [Roles](#roles)
