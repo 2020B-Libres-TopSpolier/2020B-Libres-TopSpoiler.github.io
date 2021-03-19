@@ -59,8 +59,19 @@ Fundadores
 
 Roles
 -------
-La arquitectura sobre la que se soporta el proyecto
-![arquitectura](architecture.jpg)
+
+Los Principales roles en TopSpoilers son los siguientes: Desarrollador, Documentación e Historias de Usuario, los cuales conformarán parte de la dirección de comunidad de TopSpoilers. Por tanto los Roles secundarios en TopSpoilers son: Discord, Bugs, Seguridad, Traductor, Verificador, Aceptación, Administrador de Red. Cabe mencionar que los roles principales se encargarán de tareas complejas relacionadas a la gestión del proyecto. 
+
+Desarrollador 
+Documentación 
+Historias de Usuario
+Discord
+Bugs
+Seguridad
+Traductor
+Verificador
+Aceptación
+Administrador de Red
 
 Etiquetas
 -------
@@ -85,7 +96,20 @@ Tus aportes son bienvenidos en:
 Gestión
 ----
 
-GNU GPL v2
+#######  Normativa
+
+Respeto entre sus contribuyentes siguiendo las reglas principales de la comunidad de TopSpoilers. El comportamiento de sus contribuidores debe ser ejemplar a nivel social y politico por lo que reprersentamos a toda una comunidad de personas honestas y trabajadoras. En TopSpoilers estableceremos una soberanía de toda la comunidad con el derecho
+a elegir y controlar sus reglas y ambiciones.
+
+"No obstante el Administrador y CEO de TopSpoilers tomará la ultima palabra para la desiciones criticas del Proyecto"
+
+######  Tipos de Desiciones Criticas:
+
+*Cambiar las reglas principales de la comunidad.
+*cambiar los tipos de mangas.(Dragon ball, One Piece, Shigeki no kiogin)
+*Dar de baja un Rol
+*Dar de baja a un Contribuidor
+*Cambiar el entorno de desarrollo del Proyecto para futuras adaptaciones, etc.
 
 Toma de Desiciones
 -------
