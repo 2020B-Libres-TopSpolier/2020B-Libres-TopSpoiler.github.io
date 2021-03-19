@@ -15,7 +15,7 @@ Tabla de Contenidos
 
 * [Descripción](#descripción)
 * [Objetivos](#objetivos)
-* [Fundadores](#fundadores)
+* [Fundador](#fundador)
 * [Roles](#roles)
 * [Etiquetas](#etiquetas)
 * [Licencia](#licencia)
@@ -35,24 +35,22 @@ Descripción
 
 El Proyecto TopSpoilers conlleva un desarrollo escalable de acuerdo a los parametros establecidos por la comunidad del manga, en los que estan incluidos el derecho a la libre expresion y contribucion de la comunidad, cada vez que los mangacas principales o los autores de los mismos realizen lanzamientos de información en las entevistas, estos serán tomados en cuenta como información escencial para nuestra Comunidad. 
 
-Por nuestro diseño las empresas pueden aprovechar nuestra app para el manejo de sus proyectos.
-
-> “El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos.” (Michael Jordan)
-
-> “Ninguno de nosotros es tan listo como todos nosotros. ” (Ken Blanchard)
 
 Objetivos
 -------
 
-Buscamos ofrecer una app que te permita manejar tu tiempo de manera que puedas conseguir tus metas. Puedes ir más y tener metas grupales te ayudamos a que en equipo puedas lograr tus metas.
+#### Objetivo Principal
 
-Por nuestro diseño las empresas pueden aprovechar nuestra app para el manejo de sus proyectos.
+El objetivo principal de mi Aplicación Web es la distribución de Spoilers en formato de texto antes del lanzamiento oficial del manga.
 
-> “El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos.” (Michael Jordan)
+#### Objetivos Específicos
 
-> “Ninguno de nosotros es tan listo como todos nosotros. ” (Ken Blanchard)
+* TopSpoilers brindará acceso a nuestra comunidad a travez de nuestro Discord
+* TopSpoilers emitirá los spoilers de los principales mangas que esten en augue.
+* TopSpoliers certificará el contenido real de un spoiler, mediante nuestra comunidad.
 
-Fundadores
+
+Fundador
 -------
 
 [Hecha un vistaso a la aplicación](https://www.figma.com/file/YBSq1VzG63potczpzNlXMS/Untitled?node-id=0%3A1)
@@ -96,14 +94,14 @@ Tus aportes son bienvenidos en:
 Gestión
 ----
 
-  ##### Normativa
+  #### Normativa
 
 Respeto entre sus contribuyentes siguiendo las reglas principales de la comunidad de TopSpoilers. El comportamiento de sus contribuidores debe ser ejemplar a nivel social y politico por lo que reprersentamos a toda una comunidad de personas honestas y trabajadoras. En TopSpoilers estableceremos una soberanía de toda la comunidad con el derecho
 a elegir y controlar sus reglas y ambiciones.
 
-"No obstante el Administrador y CEO de TopSpoilers tomará la ultima palabra para la desiciones criticas del Proyecto"
+> "No obstante el Administrador y CEO de TopSpoilers tomará la ultima palabra para la desiciones criticas del Proyecto"
 
-  ##### Tipos de Desiciones Críticas
+  #### Tipos de Desiciones Críticas
 
 * Cambiar las reglas principales de la comunidad.
 * Cambiar los tipos de mangas.(Dragon ball, One Piece, Shigeki no kiogin)
