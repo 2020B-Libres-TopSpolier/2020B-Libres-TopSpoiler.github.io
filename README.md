@@ -74,6 +74,7 @@ Administrador de Red
 
 Etiquetas
 -------
+
 Las Etiquetas que maneja nuestra Aplicación Web para la comunidad de TopSpoilers se listan a continuación:
 
 [Ingrese a las Etiquetas](https://github.com/2020B-Libres-TopSpolier/2020B-Libres-TopSpoiler.github.io/labels)
@@ -93,15 +94,18 @@ Las Etiquetas que maneja nuestra Aplicación Web para la comunidad de TopSpoiler
 
 Licencia
 -------
-Avance del proyecto
-![historias de usuario](user_histories.png)
+
+TopSpoilers esta usando la [Licencia](https://github.com/2020B-Libres-TopSpolier/2020B-Libres-TopSpoiler.github.io/blob/main/LICENSE) GNU General Public License, version 2.
+
 
 Lista de Correos
 --------
 
-¿Quiéres contribuir?
+¿Quiéres unirtenos? VAMOS
 
-Tus aportes son bienvenidos en:
+Tus conocimientos son bienvenidos en:
+
+[Ingrese a las Etiquetas](https://github.com/2020B-Libres-TopSpolier/2020B-Libres-TopSpoiler.github.io/labels)
 
     cristian.tuitice@epn.edu.ec
 
