@@ -6,8 +6,8 @@ TopSpoliers es una plataforma para la distribución de los diferentes spoilers d
 
 
 
-![](https://img.shields.io/badge/maintaner-omarcotg1-purple)
-![](https://img.shields.io/badge/lincese-GLP%20v2-green)
+![](https://github.com/omarcotg1/maintaner-omarcotg1-purple)
+![](https://github.com/2020B-Libres-TopSpolier/2020B-Libres-TopSpoiler.github.io/blob/main/LICENSE/lincese-GLP%20v2-green)
 
 Tabla de Contenidos
 =======================
