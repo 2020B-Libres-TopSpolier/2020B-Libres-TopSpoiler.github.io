@@ -74,9 +74,22 @@ Administrador de Red
 
 Etiquetas
 -------
-Nuestro diseño Entidad-Relación para la base de datos es el siguiente:
+Las Etiquetas que maneja nuestra Aplicación Web para la comunidad de TopSpoilers se listan a continuación:
 
-![base_de_datos](database.jpg)
+[Ingrese a las Etiquetas](https://github.com/2020B-Libres-TopSpolier/2020B-Libres-TopSpoiler.github.io/labels)
+
+* Mangas
+* Spoiler
+* Lanzamientos
+* Ayuda
+* Bug
+* Preguntas
+* Verificación
+* Desarrollo
+* Desiciones
+* Mejoras
+* Invalidar
+
 
 Licencia
 -------
