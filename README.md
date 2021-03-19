@@ -2,7 +2,6 @@
 
 [![Fundador https://github.com/omarcotg1/](https://img.shields.io/badge/maintaner-omarcotg1-purple)](https://github.com/omarcotg1/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 [![Licencia https://github.com/2020B-Libres-TopSpolier/2020B-Libres-TopSpoiler.github.io/blob/main/LICENSE/](https://img.shields.io/badge/lincese-GLP%20v2-green)](https://github.com/2020B-Libres-TopSpolier/2020B-Libres-TopSpoiler.github.io/blob/main/LICENSE/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 
