@@ -91,19 +91,19 @@ Lista de Correos
 
 Tus aportes son bienvenidos en:
 
-    eduardo.carrion@epn.edu.ec
+    cristian.tuitice@epn.edu.ec
 
 Gestión
 ----
 
-  ###### Normativa
+  ##### Normativa
 
 Respeto entre sus contribuyentes siguiendo las reglas principales de la comunidad de TopSpoilers. El comportamiento de sus contribuidores debe ser ejemplar a nivel social y politico por lo que reprersentamos a toda una comunidad de personas honestas y trabajadoras. En TopSpoilers estableceremos una soberanía de toda la comunidad con el derecho
 a elegir y controlar sus reglas y ambiciones.
 
 "No obstante el Administrador y CEO de TopSpoilers tomará la ultima palabra para la desiciones criticas del Proyecto"
 
-  ###### Tipos de Desiciones Críticas
+  ##### Tipos de Desiciones Críticas
 
 * Cambiar las reglas principales de la comunidad.
 * Cambiar los tipos de mangas.(Dragon ball, One Piece, Shigeki no kiogin)
