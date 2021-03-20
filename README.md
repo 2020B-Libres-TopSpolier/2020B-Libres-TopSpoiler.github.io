@@ -102,13 +102,10 @@ TopSpoilers esta usando la [Licencia](https://github.com/2020B-Libres-TopSpolier
 Lista de Correos
 --------
 
-¿Quiéres unirtenos? VAMOS
 
-Tus conocimientos son bienvenidos en:
+La lista de correos para miembros de nuestra comunidad para que visite nuestra página y se nos una, se encuentra a continuación:
 
-[Ingrese a las Etiquetas](https://github.com/2020B-Libres-TopSpolier/2020B-Libres-TopSpoiler.github.io/labels)
-
-    cristian.tuitice@epn.edu.ec
+[Visita nuestra página TopSpoilers](https://2020b-libres-topspolier.github.io/2020B-Libres-TopSpoiler.github.io/)
 
 Gestión
 ----
