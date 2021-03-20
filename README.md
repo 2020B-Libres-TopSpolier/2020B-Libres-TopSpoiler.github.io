@@ -103,7 +103,7 @@ Lista de Correos
 --------
 
 
-La lista de correos para miembros de nuestra comunidad para que visite nuestra página y se nos una, se encuentra a continuación:
+La lista de correos para miembros de nuestra comunidad se encuentra en nuestra página, el link se encuentra a continuación:
 
 [Visita nuestra página TopSpoilers](https://2020b-libres-topspolier.github.io/2020B-Libres-TopSpoiler.github.io/)
 
