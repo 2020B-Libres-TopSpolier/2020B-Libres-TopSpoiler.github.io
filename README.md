@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-TopSpoliers es una plataforma para la distribución de los diferentes spoilers de mayor popularidad en la comunidad del manga, mediante en uso de textos explicitos publicados por diferentes usuarios.
+TopSpoliers es una plataforma para la distribución de los diferentes spoilers de mayor popularidad en la comunidad del manga, mediante el uso de textos explicitos publicados por diferentes usuarios.
 
 
 
