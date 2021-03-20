@@ -117,6 +117,16 @@ a elegir y controlar sus reglas y ambiciones.
 
 > "No obstante el Administrador y CEO de TopSpoilers tomará la ultima palabra para la desiciones criticas del Proyecto"
 
+
+
+Toma de Desiciones
+-------
+
+Par la toma de desiciones, se evaluará el tipo de desiciones que deben ser tomadas en el proyecto TopSpoilers, siempre que sea para mejorar.
+La desiciones las tomarán los miembros principales de la comunidad y que tenga el rango de "Reyes Piratas" y que al menos hayan estado contribuyendo al pryecto, al menos 2 años calendario.
+
+A continuación se menciona cuales son las desiciones mas críticas de nuestro proyecto:
+
   #### Tipos de Desiciones Críticas
 
 * Cambiar las reglas principales de la comunidad.
@@ -125,33 +135,46 @@ a elegir y controlar sus reglas y ambiciones.
 * Dar de baja a un Contribuidor
 * Cambiar el entorno de desarrollo del Proyecto para futuras adaptaciones, etc.
 
-Toma de Desiciones
--------
-
-[Hecha un vistaso a la aplicación](https://www.figma.com/file/YBSq1VzG63potczpzNlXMS/Untitled?node-id=0%3A1)
 
 Obtención de Recursos
 -------
 
-[Hecha un vistaso a la aplicación](https://www.figma.com/file/YBSq1VzG63potczpzNlXMS/Untitled?node-id=0%3A1)
+Dentro del proyecto TopSpoilers se finanacirá inicialmente con sus propios recursos, si embargo se recibirá donaciones mediante PAYPAL y nuestra cuenta Bancaria.
+Cabe mencionar que en caso de tener insuficiencia de recursos a futuro para miembros de nuestra comunidad, se evaluarán diferentes maneras de la obtención de recursos como:
+
+* Soporte y mantenimiento
+* Concursos de menciones
+* Licenciamiento Doble
+* Publicidad en pantalla
 
 Utilización de Recursos
 -------
 
-[Hecha un vistaso a la aplicación](https://www.figma.com/file/YBSq1VzG63potczpzNlXMS/Untitled?node-id=0%3A1)
+Los recursos que sean recibidos, inicialmente por donaciones voluntarias por parte de nuestra comunidad, serán utilizados para la mejora continua de nuestro proyecto TopSpoilers, a menos que algún miembro de nuestra comunidad padezca, alguna situación de grave indole, estos recursos serán donados inmediantamente.
 
 Estrategia de Ramas
 -------
 
-[Hecha un vistaso a la aplicación](https://www.figma.com/file/YBSq1VzG63potczpzNlXMS/Untitled?node-id=0%3A1)
+Nuestra estrategia de Ramas se basa fundamentalmente en la creación de tres ramas principales que serán de apoyo principal para nuestro proyecto.
+
+Mastero Rama Principal: se la utilizará para el proyecto o resultado final del mismo.
+Rama de Produccion: es una rama de desarrollo total antes de la funsion de las diferentes tareas de nuestro proyecto.
+Rama de Desarrollo: se la utilizará para elaboras los features y brindar un entorno de pruebas de integración.
+
+A continuación se observa nuestra Estrategia de Ramas:
+
+![Estrategia de Ramas](Ramificación.png)
 
 Estrategia de Versionamiento
 -------
+Nuestra estrategia de versionamiento constará de una versión de pruebas y una versión de producción, las cuales estarán localizadas en una sola rama para su posterior lanzamiento de versiones de TopSpoilers, como se observa a continuación:
 
-[Hecha un vistaso a la aplicación](https://www.figma.com/file/YBSq1VzG63potczpzNlXMS/Untitled?node-id=0%3A1)
+![Estrategias de Versionamiento](Versionamiento.png)
 
 Canales de Comunicación
 -------
 
-[Hecha un vistaso a la aplicación](https://www.figma.com/file/YBSq1VzG63potczpzNlXMS/Untitled?node-id=0%3A1)
+Nosotros como miembros de una comunidad de Software Libre, estaremos comunicados mediante la plataforma de libre acceso como Discord. Claro esta que los miembros que conformen nuestra comunidad de TopSpoilers deberán guardar respeto mutuo entre nuestros colaboradores y poseer empatía hacia los demás. A continuación se encuentra en canal de enlace a nuestra red social.
+
+[Visita nuestro Discord](https://discord.gg/JNdBnHFB)
 
